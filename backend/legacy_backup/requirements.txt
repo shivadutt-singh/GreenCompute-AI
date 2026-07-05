@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic>=2.0
+PyGithub
+tree-sitter
+tree-sitter-python
+google-generativeai
+httpx
+python-dotenv
+sqlalchemy
